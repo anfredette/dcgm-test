@@ -2,7 +2,7 @@ module dcgm-test
 
 go 1.24.3
 
-require github.com/anfredette/go-dcgm v0.0.0-20250601204635-82b61c2b08b7
+require github.com/anfredette/go-dcgm v0.0.0-20250601213115-9201b92d6b9a
 
 require (
 	github.com/bits-and-blooms/bitset v1.22.0 // indirect

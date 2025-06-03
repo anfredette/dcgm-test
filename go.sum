@@ -1,5 +1,5 @@
-github.com/anfredette/go-dcgm v0.0.0-20250601204635-82b61c2b08b7 h1:c076VXBDEC6YC1/Kg6IeG29WrU04+LvuhpkOJfipv+0=
-github.com/anfredette/go-dcgm v0.0.0-20250601204635-82b61c2b08b7/go.mod h1:qYSALG8pgQSyjyjC0Pr0RLB9vSvCtmbsDhVZn3iacAY=
+github.com/anfredette/go-dcgm v0.0.0-20250601213115-9201b92d6b9a h1:QDZfYqOIwAL9V0K73mrGdyWp0hI1oxeAEhU/uumRuPY=
+github.com/anfredette/go-dcgm v0.0.0-20250601213115-9201b92d6b9a/go.mod h1:qYSALG8pgQSyjyjC0Pr0RLB9vSvCtmbsDhVZn3iacAY=
 github.com/bits-and-blooms/bitset v1.22.0 h1:Tquv9S8+SGaS3EhyA+up3FXzmkhxPGjQQCkcs2uw7w4=
 github.com/bits-and-blooms/bitset v1.22.0/go.mod h1:7hO7Gc7Pp1vODcmWvKMRA9BNmbv6a/7QIWpPxHddWR8=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
